@@ -1,0 +1,89 @@
+h1{background-color:purple ;}
+h2{text-align: center;background-color: purple;}
+header{
+    background-color:burlywood;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    text-align: center;
+}
+
+
+#About{
+    background-color: burlywood;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    align-items: left;
+    text-align: center;
+
+}
+
+
+
+
+#Services{
+    background-color: burlywood;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    align-items: left;
+    text-align: center;
+
+}
+#Services{
+    background-color: burlywood;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    align-items: left;
+    text-align: center;
+
+}
+#y{
+    background-color: red;
+    text-align: center;
+}
+nav{
+    background-color:grey ;
+}
+.nav-container{
+    max-width:1200px ;
+    margin:0 auto ;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.logo a{
+    color:aquamarine;
+    text-decoration:none ;
+    font-size: 24px;
+}
+.menu ul{
+    list-style-type: none;
+    margin:0 ;
+    padding: 0;
+    display: flex;
+    
+}
+.menu ul li{
+    margin-right: 20px;
+}
+.menu ul li a{
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.menu ul li a:hover{
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
